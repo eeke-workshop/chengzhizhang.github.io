@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2023
-* [J60] Chengzhi Zhang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Scientific Literactures in the Domain of Natural Language Processing. ***Journal of Informetrics***, 2022. (in press). [[doi]()]  [[arXiv]()]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* [J60] Chengzhi Zhang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2022. (in press). [[doi]()]  [[arXiv]()]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
 * [J59] Chenglei Qin, Chengzhi Zhang\*. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full-text of Academic Articles. ***Aslib Journal of Information Management***, 2022. (in press). [[doi]](https://doi.org/10.1108/AJIM-05-2022-0244)  [[arXiv]](https://arxiv.org/abs/2209.01841)
 * [J58] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2022. (in press). [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)  [[arXiv]](http://arxiv.org/abs/2209.03557)
 
