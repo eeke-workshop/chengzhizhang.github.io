@@ -7,9 +7,9 @@ order:  3
 ---
  (*=corresponding author)
 ## 2023
-* [J60] Chengzhi Zhang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Scientific Literactures in the Domain of Natural Language Processing. *Journal of Informetrics*, 2022. [[doi]()]  [[arXiv]()] 
-* [J59] Chenglei Qin, Chengzhi Zhang\*. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full-text of Academic Articles. ***Aslib Journal of Information Management***, 2022 (in press). [[doi]](https://doi.org/10.1108/AJIM-05-2022-0244)  [[arXiv]](https://arxiv.org/abs/2209.01841)
-* [J58] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2022 (in press). [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)  [[arXiv]](http://arxiv.org/abs/2209.03557)
+* [J60] Chengzhi Zhang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Scientific Literactures in the Domain of Natural Language Processing. *Journal of Informetrics*, 2022. (in press). [[doi]()]  [[arXiv]()]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* [J59] Chenglei Qin, Chengzhi Zhang\*. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full-text of Academic Articles. ***Aslib Journal of Information Management***, 2022. (in press). [[doi]](https://doi.org/10.1108/AJIM-05-2022-0244)  [[arXiv]](https://arxiv.org/abs/2209.01841)
+* [J58] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2022. (in press). [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)  [[arXiv]](http://arxiv.org/abs/2209.03557)
 
 ## 2022
 * [P4] Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. ***Proceedings of the 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents(EEKE2022)***. co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2022 (JCDL 2022), Germany and Online, 23~24 June, 2022. [[Proceedings]](http://ceur-ws.org/Vol-3210/)  [[DBLP]](https://dblp.org/db/conf/eeke/eeke2022.html)
