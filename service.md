@@ -37,7 +37,7 @@ order:  5
   * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science)
 
 ## Guest Editors 
-  * [Information Processing and Management(IPM)](https://www.sciencedirect.com/journal/information-processing-and-management/special-issue/101SF59BTFR)
+  * [Information Processing and Management (IPM)](https://www.sciencedirect.com/journal/information-processing-and-management/special-issue/101SF59BTFR)
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
   * [Aslib Journal of Information Management (Aslib JIM)](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities)
   * [The Electronic Library](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)
