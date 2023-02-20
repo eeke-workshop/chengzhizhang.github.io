@@ -1,0 +1,1347 @@
+<!--
+	此示例下载自 https://echarts.apache.org/examples/zh/editor.html?c=sunburst-drink&code=G4QwTgBAJiAuIQLwQNoFgBQBICEDemWWAdiALYCmAXBAOSAOpoHbGgbKaBjaYJ2mgqza0A0hWAS1gUyAZVgBPADbV8_LAGMA9lKVgatAMQAWABwB2XVAAMtfgF8-2RQAsBUqGArEa6a7gLWS5WbUB3qYDuyoDAMYCn5txWRILCYpIyNJ6RuMqq6nSaFBS6AKzaIGZelvIKdg5OLqjyHvLelBqBoeHVoFIArrIAjBGRQiLi0rIJiRDJahrpmTl51eaVEIVeVV41vvUhvE0grR1dRD0x_fHVSSqjaRnZufmRWDMLczuL16S1dIGNS81tNJ3Ve31xciWxxSY3OkyukVuQ3mQ0GRGeK2CIS46w-my-EB-Sz-sQGR2GJ1SWjBl2msxhREekQRGgAdPTUddPttftF_nigQSQWcJqSllDKfd5ABdfi4ClU5YaQD90YAIGPe3TZuMOdxGRM0ADYQAoFBrtBCbjtivZHM5XLM4VK6HKFZFmd8dlFesrAddgactFqdXqDTdyQ9XdSfBpAI-2gDK9G2Mu3olnYpUHQOCtVjL26_Vku4UnCJq20cNyqNEe2Yx04hOW93q1M-jPQgOWmnW2WFrDFrHXMsAitcj2a7Vp30C7NZyW5-m0ltt0vxrv45Npavp_n-kVioXuRON2iAZDlAG3atqd-1nqsJYygGqyADMrwas8bSmaKncG8G6HuGpOYw7Wc7y3PT2k55XjetaCiOOZbnugAVKoAR9Gfls35xr-x5uj26pAdel6Diuz7VJBu6wQerZfiWP5HhyqHzloGEgcumb1nhr60IA7fqACg6gBPwURU5keyKqUQB1EXph2H0RajEvLQ47wRi7aKshFFDFRmg0VhoHDjsoobhKm5MYAedqAAzqgAoHoAbl4Hp2CnZkpACcWQagoABGS6QkaJSmuUbiwuJviAAyugBziR-jrcUh5F8YpAmaDZdmOSJdZiUsW4GQFGwIaRwW8TmlZjJFDlOZCOGefFTGAHyegBY8klaIpbJuwzhZlnhdl0VqeKDGFRJfmhNJsYdjVoVJvVtk5TFYEtU8TFSYFJFVYe6XdtZA2NXRsVeJpw1rnCW6AG6KgBrcoAAUaAPTmbAojs5m9ZlaS6Lq7QAMwKLeLkmmU5q4a1viADzugAVSoADdGAKr6XGTdO8m9XV3JaBdGrXbdTXrgVo0SYAt9GAJmmgDJekdyUyQDIUZWhYxgxDQ3qXFsO-IAx8pw4ApUaAFIqf2VRjM3_iDmi4zd-PNYTQYSYA0raAKvR1PozxLqzeFTOQ4tq3PUTdIMhNNP83-nJKcLLPQ0QK0E9YK3NVSW5MIAYEqAAnmqPWCdgZndRCj6BQCimBYXT3m5T2CutTGAOGmgB0ziZZk9YmpuaPoVl-37d1FK5j1PjD7O-G7HudYh3WA1jSkB_7VlK-BL4SW7-u811cmY4LDNJ4HUNp15Ghu4AIrEI9nse53T8vhYXKfFyNEdl671epXHef072jepy38JjVLaM59V8f573ydF6LauRKrrMbk7Em6YAMVme-PsxKVAWT2fZGr6EHXh26HHmO6XdCr4bTL_bLKFhQz2-7_v_ds4Py9rzHne1wLPfoTve8H2bq_XMq9o7Sz5mlH-9cH7_2fkA8WrcL4rxMp_KaxsJ5_yfoAmeC9w5v18ONEeNcx7d2gb2R-ACX7LTXNpJevhAAr1oAYPis6FnQZvIWAAmXUFAOGH0iMfR8p9szpwYcwvWHc0FewwTjLhGoeFULwbmJhYCiFfxIXXfiDNdCyPkfAxRW4mH6yvtGGWkC5aaN7No7hvC9FnxehoZRxljFFhvmYu-fUtE6JsTg5Wwjz6SWHhVCBXcNH30sV4hRKsaFdElFuQAEhaAGj5depCwnqhAO0BQVlLy5UNMHB6gjgHxISSw8Bo9ppQIsWkjJWScl-lEgg_BGhEkqKCWUthZCqmZOyZEvx9i6DNOMqg2mFTUljHSV02pQ5cF2Ilv04pBsJHDPMaMtI4yak9NHFuQhrTiHlOWR43sazum2KwPPZWsSmKADDlQAT8olPkO0lZWhLyXkctovhRABHuUKVc254ihm31qj7Z5rzvHXCmb4zZPyWnX1MSEkZBz1TAr0KCvK9T9E_KMYsgFQMgUvORRsiCUKnFYrcYC7GaQkVvJOZCiS2yYXBO_vs4GvZKUoqIOCrMZzaHyC3IABDTABTick0JzL1RGAoFkdJ7zbD5K-Q03MgBjyP5YAM21nHEVhYy9xIqcZQHFZK6lhKJKKv-aSnF5LQY6ole0AlIiNCKpJXCplPsxWWutf4wAYC6AC7ogV9qNVkoVhavVPiS59ICROUpuyHmPMZgGq1JyuUxJ0hJQAckaAE4LT1zjI1aopZeLJVl7JSs-Q7GZiDaCps9cah1mrcW5vzfqm1dAy0etVUFStfrwrPJra6kNjaTLNtca201SkO05trUGgeuYe2mQrb6wd7ac0jq7bM0N071HwqzU8-deaenxrWjypigBQxUAJ3adyvCZp9iYXezyC0hwKXKrcR6T30raVI3-Z5jCXtUmO75EkH16xXXsqtZrlLvvsleut_jnaABpzR9JiGWrsdUBi9oHP1gvysWxpdAoP63_Zm9dwGP2LpLXS2Dz6N4dLfQRuN0Td1eC3KVQAiv6AB2_GDAGLLnooLvLd8g7w3tleiiSDHmN_PDWo1js6H4cfslxr9d7iolSY5inDL7yOAUk9J1DaL0O5kE9hkTkiyOVLPGp0dGmlpz2o4vPdElAD7foAQuiWNnqA5eEA9ljAUByTxmVRbelLrsyxtVcGxMJ3bS5tzky0M-ZLYAZb9AAh5uwQA0F6AEIrQA0epKYM1G5zrn3OEYw7QPzCy0spIy6F7L4GQ35cK8KvDmWws5bHIEp9EblOGYpSV8LmnTkWfQ1uQA98qADHIwAaMq6fuc1hFYwFCXgmxN69Xmw5aa3IAP7VAAWET6-DgGlJTcmyh1FZn5tMWW_5ltM7gsM029NsrS6FuAHmFFVq2gvSLSGd7b7KIs0t8NdpVlW10-ye3VrZDWSNNfS2Nx7W3zsyfM1pBNdCNCAC1lQAEPpNqFfC3Fl4KAgCujNh8fG9sSQRx6r7CGh3PPR5ji7JaEeHf7cdh7G60cY7-0xfHfb1VrbbQzZ59OycQ9x74SnBW9NLPW3OrnjPaUA5caz-7r7s2i6o1DmjJbABCOoAQmsHOjbw1Jy8HDLzWwKPdbH3m3saFV1TqXuGfZa513r0zYt-O-FNwL1R-misg60Fb3XYvfCJcAFM-ju7sW6Ax7m3O27e840Dc_3hPhcM2D17yWYbndC_Z72OP8uw8XIkoAb59rPq-Bz7YwHCroUDA_rvJhu5uRdyzns3gXA9KUL8X0vtvZ7h7oDXp3OzRP1_Co3kvz26m7ar7mHP0LAfd413hvvzfQ-t-H1uUfxLo8p_VNPgfHLx3_cT13l3VWC9F_79urrVfNpbV1p3mn7COeXn0FbEPuSj68aNwa3wgBHRUAG-mTCA-T9xbf4w9_B8w958rlP9GFv9gdqsb879486AP9AA4OUuXf0AA-3KLQACBVl9xMWUoD_8YDaAP9AAYlUQJQPQMF2xROywL_wAI32_QIQlwC1I1d0gMoKPwV3VkIE1kDC3EAFGDMmJVbcQAC9SAAdYgXtW0SNH2dobUKyK6XQCECkQtObTPXwQAFLlbNbtWENcfZMh_930sd7ZK9jdMNXZbNAB5xPAMYK0N0B0JM1n2mWAIzmMJMPUNIJNXIPVG0P_xsJew60MNoDdlMJZzrx_yAw8N0PJ1y38JMNrwYL3xCKsM8NwOI0lyCIgMsOsJYIz0TV8EAFR9Z2PPV3J1eyDheyXRMvR_WbIRXw3I6IoHCwoDXQIokotlQAufKovIi_cfXfb7eoxo0olvOwto4bHfZPTA0VXo5o6g6hVg7rJiHgwAEb9ABxvwzU0Kc3aG0B1FjTKP4SfwMJfw0B1kAG8fcw2IodNYjY3Aw4sfZImI7o049YhQTY_oiFCAGgjQSDQAZXkYtAAvvWONuPbTOIeNwNKg-KRwwLcLGEvABMeNsOePrWXRcIHXBIpShIyNbw1nuGFAAG5CAlAAAHWAAQJQYgJAV0XAAk2AO-YQAAD1gA0EAC65Z2IqQARc9AAwjMAH31UQ94rPKMAAZxaHsmpNpLoGEMAAubflQALH_AAAc33SV0AC45QAGLlAByvwOMAGolQAGH-dZZTAAAOUABogrgYQgACkABwCJgQ6TgQAXAI4CTTGBMVzSABKYQ_Angvg_g0QwAbH_ABaOUABfUuUwAIMtAAbo0AHIDYQwAELd3TJTAA0TTlNh0AGuNJVQAWXkPVnYPSQzhDAB3RXeK4EAFnowAIAYoxYA8SaAOEsgugZBLwhSOEugwABAABzGwIU2gBQZwYQMAXk_kwU0JXATYWs8oRs5sigVshNS8Ik2AUQAQAALw6F0C6ApA7JGVwGHOIFHInNkA4W0ATW7JrN7KbKXIHLkKsHYOhlwB5IHIEAoB5NCkkFxN8D5OIHshaDAB5NgCjBgHgBoFfJACrJACgAEBaAvNQGMB4DoBsgAFJaBhRbZ-zUgUBaANRjAwKgLaAsh4LwKugeS1AhSWhiAdVLwBBiAKAoAugRBcSbAQAeSBB_zBgFylAFA_yNAQBiAmyny1B9z-AZBgAKApB_zT4PBuUvAwBjANB2gsgEL5AiQroRKND88IB7I1AdUwAAB1AQKAWAGwIsnYLMKQFzTi06CAMAJQeAYQDQeAYgGs5sgQTYQsaipcscyc74K6QgAUaZSUASjQCS0S_ijQDUXQDyyILSkoqQXSzc3s6sus58gMRc5cuyzEDhbjY_FywSugby3yogIkfQdoFKrAfynS72CAXEpQcigkokjQJQFoWAcinVKyvK78n80y9S2YcimQJcmgZzLiigbjY6FY2SsAeSpSlStSzEOKrSfgdEqEcwTEoAA
+	⚠ 请注意，该图表不是 Apache ECharts 官方示例，而是由用户代码生成的。请注意鉴别其内容。
+-->
+<!DOCTYPE html>
+<html lang="zh-CN" style="height: 100%">
+<head>
+  <meta charset="utf-8">
+</head>
+<body style="height: 110%; margin: 0">
+  <div style="height: 85%">	
+  <div id="container" style="height: 95%"></div>
+  <div style="margin-left: 80%;  margin-bottom: 0">
+   <font size="2"><b>Note:</b><a href="tree.html">点击此链接可查看完整框架树形图</a>。
+   </font>
+   <br>
+   </div>
+   </div>
+   
+
+  <script type="text/javascript" src="./js/echarts.min.js"></script>
+  <!-- Uncomment this line if you want to dataTool extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5.4.1/dist/extension/dataTool.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use gl extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts-gl@2/dist/echarts-gl.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-stat extension
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts-stat@latest/dist/ecStat.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use map
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/china.js"></script>
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+  -->
+  <!-- Uncomment these two lines if you want to use bmap extension
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=YOUR_API_KEY"></script>
+  <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/echarts@5.4.1/dist/extension/bmap.min.js"></script>
+  -->
+
+  <script type="text/javascript">
+    var dom = document.getElementById('container');
+    var myChart = echarts.init(dom, null, {
+      renderer: 'canvas',
+      useDirtyRect: false
+    });
+    var app = {};
+    
+    var option;
+
+var data = [
+    {
+    name: '数据分析\n方法',
+    itemStyle: {
+      color: '#dc7ec0'
+    },
+    children: [
+      {
+        name: '文献研究法',
+        itemStyle: {
+          color: '#797979'
+        },
+		children: [
+          {
+            name: '文献研究法',
+            value: 1,
+            itemStyle: {
+              color: '#797979'
+            }
+          },
+          {
+            name: '文献分析法',
+            value: 1,
+            itemStyle: {
+              color: '#797979'
+            }
+          },
+          {
+            name: '文献资料法',
+            value: 1,
+            itemStyle: {
+              color: '#797979'
+            }
+          },
+          {
+            name: '文献法',
+            value: 1,
+            itemStyle: {
+              color: '#797979'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#797979'
+            }
+          },
+        ]
+      },
+      {
+        name: '实验法',
+        itemStyle: {
+          color: '#d5bb67'
+        },
+		children: [
+          {
+            name: '实验方法',
+            value: 1,
+            itemStyle: {
+              color: '#d5bb67'
+            }
+          },
+          {
+            name: '实验法',
+            value: 1,
+            itemStyle: {
+              color: '#d5bb67'
+            }
+          },
+          {
+            name: '实验研究法',
+            value: 1,
+            itemStyle: {
+              color: '#d5bb67'
+            }
+          },
+          {
+            name: '自然实验法',
+            value: 1,
+            itemStyle: {
+              color: '#d5bb67'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#d5bb67'
+            }
+          },
+        ]
+      },
+      {
+        name: '比较分析法',
+        itemStyle: {
+          color: '#82c6e2'
+        },
+		children: [
+          {
+            name: '比较分析法',
+            value: 1,
+            itemStyle: {
+              color: '#82c6e2'
+            }
+          },
+          {
+            name: '比较研究法',
+            value: 1,
+            itemStyle: {
+              color: '#82c6e2'
+            }
+          },
+          {
+            name: '比较分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#82c6e2'
+            }
+          },
+          {
+            name: '比较法',
+            value: 1,
+            itemStyle: {
+              color: '#82c6e2'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#82c6e2'
+            }
+          },
+        ]
+      },
+      {
+        name: '案例法',
+        itemStyle: {
+          color: '#a1c9f4'
+        },
+		children: [
+          {
+            name: '案例分析法',
+            value: 1,
+            itemStyle: {
+              color: '#a1c9f4'
+            }
+          },
+          {
+            name: '案例研究法',
+            value: 1,
+            itemStyle: {
+              color: '#a1c9f4'
+            }
+          },
+          {
+            name: '案例研究',
+            value: 1,
+            itemStyle: {
+              color: '#a1c9f4'
+            }
+          },
+          {
+            name: '案例分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#a1c9f4'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#a1c9f4'
+            }
+          },
+        ]
+      },
+      {
+        name: '历史分析法',
+        itemStyle: {
+          color: '#ffb482'
+        },
+		children: [
+          {
+            name: '历史分析法',
+            value: 1,
+            itemStyle: {
+              color: '#ffb482'
+            }
+          },
+          {
+            name: '历史研究法',
+            value: 1,
+            itemStyle: {
+              color: '#ffb482'
+            }
+          },
+          {
+            name: '历史分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#ffb482'
+            }
+          },
+          {
+            name: '历史研究方法',
+            value: 1,
+            itemStyle: {
+              color: '#ffb482'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#ffb482'
+            }
+          },
+        ]
+      },
+      {
+        name: '阐释法',
+        itemStyle: {
+          color: '#8de5a1'
+        },
+		children: [
+          {
+            name: '解释学方法',
+            value: 1,
+            itemStyle: {
+              color: '#8de5a1'
+            }
+          },
+          {
+            name: '阐释法',
+            value: 1,
+            itemStyle: {
+              color: '#8de5a1'
+            }
+          },
+          {
+            name: '解释法',
+            value: 1,
+            itemStyle: {
+              color: '#8de5a1'
+            }
+          },
+          {
+            name: '理论阐释法',
+            value: 1,
+            itemStyle: {
+              color: '#8de5a1'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#8de5a1'
+            }
+          },
+        ]
+      },
+      {
+        name: '扎根理论方法',
+        itemStyle: {
+          color: '#ff9f9b'
+        },
+		children: [
+          {
+            name: '扎根理论',
+            value: 1,
+            itemStyle: {
+              color: '#ff9f9b'
+            }
+          },
+          {
+            name: '扎根理论方法',
+            value: 1,
+            itemStyle: {
+              color: '#ff9f9b'
+            }
+          },
+          {
+            name: '扎根理论研究法',
+            value: 1,
+            itemStyle: {
+              color: '#ff9f9b'
+            }
+          },
+          {
+            name: '扎根理论法',
+            value: 1,
+            itemStyle: {
+              color: '#ff9f9b'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#ff9f9b'
+            }
+          },
+        ]
+      },
+      {
+        name: '内容分析法',
+        itemStyle: {
+          color: '#d0bbff'
+        },
+		children: [
+          {
+            name: '内容分析法',
+            value: 1,
+            itemStyle: {
+              color: '#d0bbff'
+            }
+          },
+          {
+            name: '内容分析',
+            value: 1,
+            itemStyle: {
+              color: '#d0bbff'
+            }
+          },
+          {
+            name: '文本分析法',
+            value: 1,
+            itemStyle: {
+              color: '#d0bbff'
+            }
+          },
+          {
+            name: '文本分析',
+            value: 1,
+            itemStyle: {
+              color: '#d0bbff'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#d0bbff'
+            }
+          },
+        ]
+      },
+      {
+        name: '社会网络分析法',
+        itemStyle: {
+          color: '#debb9b'
+        },
+		children: [
+          {
+            name: '社会网络分析法',
+            value: 1,
+            itemStyle: {
+              color: '#debb9b'
+            }
+          },
+          {
+            name: '社会网络分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#debb9b'
+            }
+          },
+          {
+            name: '社会网络分析',
+            value: 1,
+            itemStyle: {
+              color: '#debb9b'
+            }
+          },
+        ]
+      },
+      {
+        name: '统计分析法',
+        itemStyle: {
+          color: '#fab0e4'
+        },
+		children: [
+          {
+            name: '统计分析法',
+            value: 1,
+            itemStyle: {
+              color: '#fab0e4'
+            }
+          },
+          {
+            name: '结构方程模型',
+            value: 1,
+            itemStyle: {
+              color: '#fab0e4'
+            }
+          },
+          {
+            name: '因子分析法',
+            value: 1,
+            itemStyle: {
+              color: '#fab0e4'
+            }
+          },
+          {
+            name: '数据包络分析',
+            value: 1,
+            itemStyle: {
+              color: '#fab0e4'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#fab0e4'
+            }
+          },
+        ]
+      },
+      {
+        name: '可视化分析',
+        itemStyle: {
+          color: '#cfcfcf'
+        },
+		children: [
+          {
+            name: '图表法',
+            value: 1,
+            itemStyle: {
+              color: '#cfcfcf'
+            }
+          },
+          {
+            name: '图表分析法',
+            value: 1,
+            itemStyle: {
+              color: '#cfcfcf'
+            }
+          },
+          {
+            name: '图像学方法',
+            value: 1,
+            itemStyle: {
+              color: '#cfcfcf'
+            }
+          },
+          {
+            name: '知识图谱',
+            value: 1,
+            itemStyle: {
+              color: '#cfcfcf'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#cfcfcf'
+            }
+          },
+        ]
+      },
+      {
+        name: '博弈论方法',
+        itemStyle: {
+          color: '#fffea3'
+        },
+		children: [
+          {
+            name: '博弈论',
+            value: 1,
+            itemStyle: {
+              color: '#fffea3'
+            }
+          },
+          {
+            name: '博弈分析法',
+            value: 1,
+            itemStyle: {
+              color: '#fffea3'
+            }
+          },
+          {
+            name: '博弈论方法',
+            value: 1,
+            itemStyle: {
+              color: '#fffea3'
+            }
+          },
+          {
+            name: '博弈分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#fffea3'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#fffea3'
+            }
+          },
+        ]
+      },
+      {
+        name: '层次分析法',
+        itemStyle: {
+          color: '#b9f2f0'
+        },
+		children: [
+          {
+            name: '层次分析法',
+            value: 1,
+            itemStyle: {
+              color: '#b9f2f0'
+            }
+          },
+          {
+            name: '层次分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#b9f2f0'
+            }
+          },
+          {
+            name: '模糊层次分析法',
+            value: 1,
+            itemStyle: {
+              color: '#b9f2f0'
+            }
+          },
+          {
+            name: 'ahp',
+            value: 1,
+            itemStyle: {
+              color: '#b9f2f0'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#b9f2f0'
+            }
+          },
+        ]
+      },
+      {
+        name: '系统分析法',
+        itemStyle: {
+          color: '#023eff'
+        },
+		children: [
+          {
+            name: '系统分析法',
+            value: 1,
+            itemStyle: {
+              color: '#023eff'
+            }
+          },
+          {
+            name: '系统分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#023eff'
+            }
+          },
+          {
+            name: '系统研究法',
+            value: 1,
+            itemStyle: {
+              color: '#023eff'
+            }
+          },
+          {
+            name: '系统研究方法',
+            value: 1,
+            itemStyle: {
+              color: '#023eff'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#023eff'
+            }
+          },
+        ]
+      },
+	        {
+        name: '五计学方法',
+        itemStyle: {
+          color: '#e8000b'
+        },
+		children: [
+          {
+            name: '文献计量法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '科学计量法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '文献计量方法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '文献计量分析',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+        ]
+      },
+      {
+        name: '引文分析法',
+        itemStyle: {
+          color: '#8b2be2'
+        },
+		children: [
+          {
+            name: '引文分析法',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+          {
+            name: '引文分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+          {
+            name: '引文分析',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+        ]
+      },
+      {
+        name: '分类组织法',
+        itemStyle: {
+          color: '#9f4800'
+        },
+		children: [
+          {
+            name: '分类法',
+            value: 1,
+            itemStyle: {
+              color: '#9f4800'
+            }
+          },
+          {
+            name: '分类研究法',
+            value: 1,
+            itemStyle: {
+              color: '#9f4800'
+            }
+          },
+          {
+            name: '分类',
+            value: 1,
+            itemStyle: {
+              color: '#9f4800'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#9f4800'
+            }
+          },
+        ]
+      },
+      {
+        name: '本体',
+        itemStyle: {
+          color: '#f14cc1'
+        },
+		children: [
+          {
+            name: '本体构建法',
+            value: 1,
+            itemStyle: {
+              color: '#f14cc1'
+            }
+          },
+          {
+            name: '社会本体论方法',
+            value: 1,
+            itemStyle: {
+              color: '#f14cc1'
+            }
+          },
+          {
+            name: '本体构建方法',
+            value: 1,
+            itemStyle: {
+              color: '#f14cc1'
+            }
+          },
+          {
+            name: '本体论方法',
+            value: 1,
+            itemStyle: {
+              color: '#f14cc1'
+            }
+          },
+        ]
+      },
+      {
+        name: '其他数据分析方法',
+        itemStyle: {
+          color: '#ff7c00'
+        },
+		children: [
+          {
+            name: '共时比较法',
+            value: 1,
+            itemStyle: {
+              color: '#ff7c00'
+            }
+          },
+          {
+            name: '历时比较法',
+            value: 1,
+            itemStyle: {
+              color: '#ff7c00'
+            }
+          },
+          {
+            name: '话语分析法',
+            value: 1,
+            itemStyle: {
+              color: '#ff7c00'
+            }
+          },
+          {
+            name: '描写法',
+            value: 1,
+            itemStyle: {
+              color: '#ff7c00'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#ff7c00'
+            }
+          },
+        ]
+      },
+	]
+  },
+  {
+    name: '数据收集\n方法',
+    itemStyle: {
+      color: '#4878d0'
+    },
+    children: [
+      {
+        name: '问卷调查法',
+        itemStyle: {
+          color: '#ee854a'
+        },
+		children: [
+          {
+            name: '问卷调查法',
+            value: 1,
+            itemStyle: {
+              color: '#ee854a'
+            }
+          },
+          {
+            name: '问卷法',
+            value: 1,
+            itemStyle: {
+              color: '#ee854a'
+            }
+          },
+          {
+            name: '调查问卷法',
+            value: 1,
+            itemStyle: {
+              color: '#ee854a'
+            }
+          },
+          {
+            name: '问卷调研',
+            value: 1,
+            itemStyle: {
+              color: '#ee854a'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#ee854a'
+            }
+          },
+        ]
+      },
+      {
+        name: '访谈法',
+        itemStyle: {
+          color: '#6acc64'
+        },
+		children: [
+          {
+            name: '访谈法',
+            value: 1,
+            itemStyle: {
+              color: '#6acc64'
+            }
+          },
+          {
+            name: '深度访谈法',
+            value: 1,
+            itemStyle: {
+              color: '#6acc64'
+            }
+          },
+          {
+            name: '深度访谈',
+            value: 1,
+            itemStyle: {
+              color: '#6acc64'
+            }
+          },
+          {
+            name: '访谈调查法',
+            value: 1,
+            itemStyle: {
+              color: '#6acc64'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#6acc64'
+            }
+          },
+        ]
+      },
+      {
+        name: '专家法',
+        itemStyle: {
+          color: '#d65f5f'
+        },
+		children: [
+          {
+            name: '专家调查法',
+            value: 1,
+            itemStyle: {
+              color: '#d65f5f'
+            }
+          },
+          {
+            name: '专家咨询',
+            value: 1,
+            itemStyle: {
+              color: '#d65f5f'
+            }
+          },
+          {
+            name: '德尔菲法',
+            value: 1,
+            itemStyle: {
+              color: '#d65f5f'
+            }
+          },
+          {
+            name: '专家访谈',
+            value: 1,
+            itemStyle: {
+              color: '#d65f5f'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#d65f5f'
+            }
+          },
+        ]
+      },
+      {
+        name: '实地研究法',
+        itemStyle: {
+          color: '#956cb4'
+        },
+		children: [
+          {
+            name: '田野调查法',
+            value: 1,
+            itemStyle: {
+              color: '#956cb4'
+            }
+          },
+          {
+            name: '实地调查法',
+            value: 1,
+            itemStyle: {
+              color: '#956cb4'
+            }
+          },
+          {
+            name: '田野调查',
+            value: 1,
+            itemStyle: {
+              color: '#956cb4'
+            }
+          },
+          {
+            name: '实地调查',
+            value: 1,
+            itemStyle: {
+              color: '#956cb4'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#956cb4'
+            }
+          },
+        ]
+      },
+      {
+        name: '其他技术收集方法',
+        itemStyle: {
+          color: '#8c613c'
+        },
+		children: [
+          {
+            name: '眼动记录法',
+            value: 1,
+            itemStyle: {
+              color: '#8c613c'
+            }
+          },
+          {
+            name: '语料库方法',
+            value: 1,
+            itemStyle: {
+              color: '#8c613c'
+            }
+          },
+          {
+            name: '口语报告法',
+            value: 1,
+            itemStyle: {
+              color: '#8c613c'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#8c613c'
+            }
+          },
+        ]
+      },
+    ]
+  }, 
+{
+    name: '其他',
+    itemStyle: {
+      color: '#1ac938'
+    },
+    children: [
+      {
+        name: '跨学科研究法',
+        itemStyle: {
+          color: '#8b2be2'
+        },
+		children: [
+          {
+            name: '跨学科研究法',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+          {
+            name: '跨学科研究方法',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+          {
+            name: '跨学科的研究方法',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+		  {
+            name: '多学科研究方法',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#8b2be2'
+            }
+          },
+        ]
+      },
+{
+        name: '逻辑思维方法',
+        itemStyle: {
+          color: '#e8000b'
+        },
+		children: [
+          {
+            name: '逻辑分析法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '逻辑分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '归纳法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '归纳演绎法',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#e8000b'
+            }
+          },
+        ]
+      },
+	  {
+        name: '价值分析法',
+        itemStyle: {
+          color: '#8c564b'
+        },
+		children: [
+          {
+            name: '价值分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+          {
+            name: '价值分析法',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+          {
+            name: '价值分析的方法',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+        ]
+      },
+	  {
+        name: '辩证分析法',
+        itemStyle: {
+          color: '#d62728'
+        },
+		children: [
+          {
+            name: '辩证分析法',
+            value: 1,
+            itemStyle: {
+              color: '#d62728'
+            }
+          },
+          {
+            name: '矛盾分析法',
+            value: 1,
+            itemStyle: {
+              color: '#d62728'
+            }
+          },
+          {
+            name: '唯物辩证法',
+            value: 1,
+            itemStyle: {
+              color: '#d62728'
+            }
+          },
+          {
+            name: '辩证分析方法',
+            value: 1,
+            itemStyle: {
+              color: '#d62728'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#d62728'
+            }
+          },
+        ]
+      },
+	  {
+        name: '经济学方法',
+        itemStyle: {
+          color: '#8c564b'
+        },
+		children: [
+          {
+            name: '静态分析',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+          {
+            name: '静态分析法',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+          {
+            name: '比较静态分析',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+          {
+            name: '动态分析法',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+        ]
+      },
+      {
+        name: '...',
+        itemStyle: {
+          color: '#8c564b'
+        },
+		children: [
+          {
+            name: '...',
+            value: 1,
+            itemStyle: {
+              color: '#8c564b'
+            }
+          },
+        ]
+      },
+    ]
+  },];
+	option = {
+	  title: {
+		text: '人文社科领域研究方法分类框架（旭日图）',
+		subtext: '\n注释：最内层为一级类别，分为“数据收集\n方法”、“数据分析方法”与“其他”；中\n间层为概括性的研究方法；最外层为博士学\n位论文中的具体方法词。由于各种方法词种\n类较多，此图中仅展示每个二级类别下的四\n种方法词，剩余方法词使用“...”代替。另\n外，“其他”类别由于不参与本文分析，仅\n展示部分方法词。可以点击右下角链接在树\n形图中查看各种类别中所有的方法。',
+		top: 25,
+		left: 2,
+		right: 'center',
+		subtextStyle: {
+		  align: 'center',
+		  fontSize: 13,
+		},
+		textStyle: {
+		  fontSize: 19,
+		  align: 'center'
+		},
+
+	  },
+	  series: {
+		type: 'sunburst',
+		data: data,
+		radius: [0, '90%'],
+		center: ['50%', '50%'],
+		sort: undefined,
+		emphasis: {
+		  focus: 'ancestor'
+		},
+		levels: [
+		  {},
+		  {
+			r0: '12%',
+			r: '25%',
+			itemStyle: {
+			  borderWidth: 2,
+			},
+			label: {
+			  rotate: 'tangential',
+			  fontSize: 11
+	}
+		  },
+		  {
+			r0: '25%',
+			r: '62%',
+			label: {
+			  align: 'right',
+			  fontSize: 11
+			}
+		  },
+		  {
+			r0: '62%',
+			r: '66%',
+			label: {
+			  position: 'outside',
+			  padding: 2,
+			  silent: false,
+			  fontSize: 9
+
+			},
+			itemStyle: {
+			  borderWidth: 1
+			}
+		  }
+		]
+	  }
+	};
+
+    if (option && typeof option === 'object') {
+      myChart.setOption(option);
+    }
+
+    window.addEventListener('resize', myChart.resize);
+  </script>
+
+</body>
+</html>
