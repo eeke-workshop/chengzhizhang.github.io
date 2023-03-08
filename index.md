@@ -14,6 +14,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
  
 ## Recent News
 * ***Call for Paper***: Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)) at the ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL2023), Santa Fe, New Mexico, USA
+* ***Call for Paper***: 1st Workshop on Innovation Measurement for Scientific Communication in the Era of Big Data ([IMSC2023](https://jcdl2023workshop-imsc.github.io/IMSC2023-workshop/)) at the ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL2023), Santa Fe, New Mexico, USA
 * Call for Paper: Special issue about “Extraction and Evaluation of Knowledge Entities from Scientific Documents” (EEKE) at [Scientometrics]( https://link.springer.com/collections/hbffbdggdj) (Note: Submission via the  [Scientometrics Editorial Manager](https://www.editorialmanager.com/scim/ ) under “***S.I. : EEKE***” )
 * Call for Paper: Special isssue about "Information Extraction and Language Discourse Processing" at [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD) 
 * In December 2022, a paper has been accepted by Journal of Informetrics. [[doi]]( https://doi.org/10.1016/j.joi.2022.101373)  [[arxiv]](http://arxiv.org/abs/2212.13860)  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
