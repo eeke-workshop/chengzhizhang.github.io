@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2023
-* [J61] Chengzhi Zhang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2023, 17(1): 101373. [[doi]( https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* [J61] Chengzhi Zhang, Yi Xiang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2023, 17(1): 101373. [[doi]( https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
 * [J60] Chenglei Qin, Chengzhi Zhang\*. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full-text of Academic Articles. ***Aslib Journal of Information Management***, 2023. (in press). [[doi]](https://doi.org/10.1108/AJIM-05-2022-0244)  [[arXiv]](https://arxiv.org/abs/2209.01841)
 * [J59] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2023, 75(1): 20-43. [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)  [[arXiv]](http://arxiv.org/abs/2209.03557)
 * [J58] Minghui Meng, Ruxue Han, Jiangtao Zhong, Haomin Zhou, Chengzhi Zhang\*. Aspect-based sentiment analysis of online peer reviews and prediction of paper acceptance results. ***Data Science and Informetrics***, 2023, 3(1): 37-64. 
