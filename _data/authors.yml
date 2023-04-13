@@ -17,9 +17,8 @@ author1:
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
-  social:
+  social:      
+    googlescholar:    AzVBq00AAAAJ
+    researchgate:     Chengzhi_Zhang4
+    orcid:            000-0001-9522-2914
     github:           chengzhizhang
-    # twitter:           there_are_two_
-    googlescholar:    https://scholar.google.com/citations?user=AzVBq00AAAAJ
-    researchgate:     https://www.researchgate.net/profile/Chengzhi_Zhang4
-    orcid:            https://orcid.org/0000-0001-9522-2914
