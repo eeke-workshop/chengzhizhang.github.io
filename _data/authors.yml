@@ -3,6 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   name:              Chengzhi Zhang
+  location:          Nanjing, China
   email:             zhangcz@njust.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -19,5 +20,6 @@ author1:
   social:
     github:           chengzhizhang
     # twitter:           there_are_two_
-    researchgate:           https://www.researchgate.net/profile/Chengzhi_Zhang4
-    orcid:           https://orcid.org/0000-0001-9522-2914
+    googlescholar:    https://scholar.google.com/citations?user=AzVBq00AAAAJ
+    researchgate:     https://www.researchgate.net/profile/Chengzhi_Zhang4
+    orcid:            https://orcid.org/0000-0001-9522-2914
