@@ -105,15 +105,15 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
-ResearchGate:
+researchgate:
   name: ResearchGate
   icon: icon-researchgate
-  prepend: "https://www.researchgate.net/directory/profiles/"
-ORCID:
+  prepend: "https://www.researchgate.net/profile/"
+orcid:
   name: ORCID
   icon: icon-orcid
-  prepend: "https://orcid.org/my-orcid/"
-GoogleScholar:
+  prepend: "https://orcid.org/"
+googlescholar:
   name: GoogleScholar
   icon: icon-googlescholar
   prepend: "https://scholar.google.com/citations?user="  
