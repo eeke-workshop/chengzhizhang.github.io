@@ -24,15 +24,12 @@
       {% assign prep = "https://github.com/" %}
     {% elsif platform == "googlescholar" %}
       {% assign name = "GoogleScholar" %}
-      # {% assign icon = "icon-googlescholar" %}
       {% assign prep = " https://scholar.google.com/citations?user=" %}
     {% elsif platform == "researchgate" %}
       {% assign name = "ResearchGate" %}
-      #  {% assign icon = "icon-researchgate" %}
       {% assign prep = "https://www.researchgate.net/profile/" %}
     {% elsif platform == "orcid" %}
       {% assign name = "Orcid" %}
-       # {% assign icon = "icon-orcid" %}
       {% assign prep = "https://orcid.org/" %}
     {% endif %}
   {% endunless %}
