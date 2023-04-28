@@ -31,8 +31,6 @@ order:  6
 * Wenqi Yu, 2021
 * Yukai Yang, 2021
 * Haochuan Li, 2021
-* Liang Tian, 2020
-* Lei Zhao, 2020
 
 
 ## Alumni
@@ -43,6 +41,8 @@ order:  6
 <!--{
 % include collaborator.html people=site.data.collaborators.former-masters %}
 -->
+* Liang Tian, 2023, master thesis: Cross-lingual Classification and Usage Patterns Analysis of Research Methods of Academic Articles
+* Lei Zhao, 2023, master thesis: Using Text Structure and Automatic Summarization to Extract Keywords from Academic Papers  
 * Yuntian Song, 2019
 * Yuxin Xie, MSc 2022, master thesis: Extraction of Fine-grained Method Entities in the Full-text Content of Academic Articles and Their Association and Evolution Analysis
 * Minghui Meng, MSc 2022, master thesis: Sentiment Analysis of Online Peer Reviews and Application
