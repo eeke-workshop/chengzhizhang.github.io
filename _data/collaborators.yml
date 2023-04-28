@@ -1,9 +1,5 @@
 phd-students-first:
 
-  - 
-    name: Chenglei Qin
-    url: https://www.researchgate.net/profile/Qin_Chenglei
-    tagline: Review mining.
   -
     name: Bowen Li
     tagline: Methodology in information science.
@@ -11,10 +7,6 @@ phd-students-first:
     name: Heng Zhang
     url: https://www.researchgate.net/profile/Heng_Zhang118 
     tagline: Taxonomy generation, Software entity extraction.
-  -
-    name: Yuzhuo Wang
-    url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
-    tagline: Knowledge entity extraction and evaluation.
   -
     name: Yi Zhao
     url: https://www.researchgate.net/profile/Yi_Zhao162   
@@ -46,41 +38,53 @@ phd-students-first:
 project-students:
 former-phd:
   -
+    name: Yuzhuo Wang
+    url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
+    tagline: "PhD 2023, now: Assistant Professor at Anhui University."
+    description: >
+      PhD Thesis: Academic Influence Evaluation of Algorithm Entity Based on the Full Text Features of Academic Papers.
+  - 
+    name: Chenglei Qin
+    url: https://www.researchgate.net/profile/Qin_Chenglei
+    tagline: "PhD 2023, now: Assistant Professor at Fuyang Normal University."
+    description: >
+      PhD Thesis: Fine-grained Mining of Peer Review Comments of Academic Articles.
+  -
     name: Yingyi Zhang
     url: http://web.suda.edu.cn/zyy2/ 
     tagline: "PhD 2022, now: Assistant Professor at Soochow University."
     description: >
-      Phd Thesis: Extracting the Relationship of “Problem-Method” in Academic Papers.
+      PhD Thesis: Extracting the Relationship of “Problem-Method” in Academic Papers.
   -
     name: Shuitan Ma
     url: http://shutian.me/
     tagline: "PhD 2020, now: Data Scientist at Tencent Inc., China."
     description: >
-      Phd Thesis: Citation Recommendation Based on Citing Time Preference and Argumentative Zoning of User Query.
+      PhD Thesis: Citation Recommendation Based on Citing Time Preference and Argumentative Zoning of User Query.
   -
     name: Chao Lu
     url: https://luchao1991.github.io/
     tagline: "PhD 2019, now: Assistant Professor at Hohai University."
     description: >
-      Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
+      PhD Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
   -
     name: Qingqing Zhou
     url: https://www.researchgate.net/profile/Qingqing_Zhou8
     tagline: "PhD 2018, now: Assistant Professor at Nanjing Normal University."
     description: >
-      Phd Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
+      PhD Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
   -
     name: Xiaolan Wu
     url: https://www.researchgate.net/profile/Wu_Lan3
     tagline: "PhD 2018, now: Associate Professor at Nanjing Normal University."
     description: >
-      Phd Thesis: Finding Interdisciplinary Users on Social Media and its Application.
+      PhD Thesis: Finding Interdisciplinary Users on Social Media and its Application.
   -
     name: Lei Li
     url: https://www.researchgate.net/profile/Lei_Li68
     tagline: "PhD 2018, now: Assistant Professor at Beijing Normal University."
     description: >
-      Phd Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
+      PhD Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
       
 
 
