@@ -7,7 +7,8 @@ order:  3
 ---
  (*=corresponding author)
 ## 2023
-* [J62] Chengzhi Zhang, Yi Xiang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2023, 17(1): 101373. [[doi]( https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* [J63] Chengzhi Zhang, Yi Xiang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2023, 17(1): 101373. [[doi]( https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* [J62] Chengzhi Zhang，Liang Tian. Non-synchronism in Global Usage of Research Methods in Library and Information Science from 1990 to 2019. ***Scientometrics***, 2023(in press). [[doi]]()
 * [J61] Chenglei Qin, Chengzhi Zhang\*. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full-text of Academic Articles. ***Aslib Journal of Information Management***, 2023. (in press). [[doi]](https://doi.org/10.1108/AJIM-05-2022-0244)  [[arXiv]](https://arxiv.org/abs/2209.01841)
 * [J60] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2023, 75(1): 20-43. [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)  [[arXiv]](http://arxiv.org/abs/2209.03557)
 * [J59] Jiangyang Fu, Liang Tian, Chengzhi Zhang, Jiang Li. Opening research data contributes to the citations of related research articles: Evidence from Data in Brief. ***Learned Publishing***, 2023(in press). [[doi]](https://doi.org/10.1002/leap.1551)
