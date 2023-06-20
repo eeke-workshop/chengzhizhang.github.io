@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2023
-* [J65] Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. Guest editorial: Extraction and evaluation of knowledge entities in the age of artificial intelligence. ***Aslib Journal of Information Management***, 2023(in press) [[doi]]()
+* [J65] Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. Guest editorial: Extraction and evaluation of knowledge entities in the age of artificial intelligence. ***Aslib Journal of Information Management***, 2023, 75(3): 433-437. [[doi]](https://doi.org/10.1108/AJIM-05-2023-507)
 * [J64] Chengzhi Zhang, Siqi Wei, Yi Zhao, Liang Tian. Gender Differences in Research Topic and Method Selection in Library and Information Science: Perspectives from Three Top Journals. ***Library and Information Science Research***, 2023, 45(3): 101255. [[doi]](https://doi.org/10.1016/j.lisr.2023.101255)
 * [J63] Chengzhi Zhang, Yi Xiang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2023, 17(1): 101373. [[doi]( https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
 * [J62] Chengzhi Zhang，Liang Tian. Non-synchronism in Global Usage of Research Methods in Library and Information Science from 1990 to 2019. ***Scientometrics***, 2023, 128(7): 3981-4006. [[doi]](https://doi.org/10.1007/s11192-023-04740-3)
