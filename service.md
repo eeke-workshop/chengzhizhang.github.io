@@ -42,8 +42,8 @@ order:  5
 ## Guest Editors 
   * [Information Processing and Management (IPM)](https://www.sciencedirect.com/journal/information-processing-and-management/special-issue/101SF59BTFR)
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
-  * [Aslib Journal of Information Management (Aslib JIM)](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)], [[SI: Innovation Measurement for Scientific Communication in the Era of Big Data](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)]
-  * The Electronic Library: [[SI: Managing Bigger Online Data](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)
+  * [Aslib Journal of Information Management (Aslib JIM)](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)
+  * The Electronic Library: [[SI: Managing Bigger Online Data](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)], [[SI: Innovation Measurement for Scientific Communication in the Era of Big Data](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)]
   * [Information Discovery and Delivery](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)
   * [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD)
   * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
