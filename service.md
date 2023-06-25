@@ -44,12 +44,12 @@ order:  5
 ## Guest Editors 
   * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://www.sciencedirect.com/journal/information-processing-and-management/special-issue/101SF59BTFR)]
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
-  * [Aslib Journal of Information Management (Aslib JIM)](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)
+  * Aslib Journal of Information Management: [[SI: Extraction and evaluation of knowledge entities in the age of artificial intelligence](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)]
   * The Electronic Library: [[SI: Managing Bigger Online Data](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)], [[SI: Innovation Measurement for Scientific Communication in the Era of Big Data](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)]
-  * [Information Discovery and Delivery](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)
-  * [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD)
-  * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
-  * [Data and Information Management (DIM)](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)
+  *  Information Discovery and Delivery:  [[SI: Information Discovery with Machine Intelligence for Language](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)]
+  * Information: [[SI: Information Extraction and Language Discourse Processing](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD)]
+  * Journal of Data and Information Science: [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://www.sciendo.com/issue/JDIS/6/3)]
+  * Data and Information Management: [[SI: Knowledge Entity Extraction and Text Mining in the Era of Big Data](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)]
 
 ## Editorial Board Member
   * Patterns
