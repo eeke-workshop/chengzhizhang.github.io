@@ -24,12 +24,12 @@ order:  5
 ## Workshops & Panels Chair
 * [***iConference***](https://www.ischools.org/iconference)(2024)
 
-## Senior Program Committee Member  
-* [***JCDL***](http://www.jcdl.org/)(2020, 2021)
-
 ## Session Chair 
 * JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
 
+## Senior Program Committee Member  
+* [***JCDL***](http://www.jcdl.org/)(2020, 2021)
+* 
 ## Program Committee Member 
 
 * ***IS field***: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, ICEBE, COINFO, etc.
