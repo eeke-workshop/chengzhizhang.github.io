@@ -22,13 +22,13 @@ order:  5
   * 1st Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([IMSC2023](https://jcdl2023workshop-imsc.github.io/IMSC2023-workshop/))
     
 ## Workshops & Panels Chair
-* [iConference2014](https://www.ischools.org/iconference)
+* [***iConference***](https://www.ischools.org/iconference)(2024)
+
+## Senior Program Committee Member  
+* [***JCDL***](http://www.jcdl.org/)(2020, 2021)
 
 ## Session Chair 
 * JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
-
-## Senior Program Committee Member  
-* [JCDL](http://www.jcdl.org/)(2020, 2021)
 
 ## Program Committee Member 
 
