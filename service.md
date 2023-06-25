@@ -29,7 +29,7 @@ order:  5
 
 ## Senior Program Committee Member  
 * [***JCDL***](http://www.jcdl.org/)(2020, 2021)
-* 
+  
 ## Program Committee Member 
 
 * ***IS field***: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, ICEBE, COINFO, etc.
