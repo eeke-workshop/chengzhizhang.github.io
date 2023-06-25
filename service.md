@@ -20,7 +20,9 @@ order:  5
   * 1st Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/aii2021.html)).  [[Proceedings]](http://ceur-ws.org/Vol-2871/) 
 * ***Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data***
   * 1st Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([IMSC2023](https://jcdl2023workshop-imsc.github.io/IMSC2023-workshop/))
-
+    
+## Workshops & Panels Chair
+* [iConference2014](https://www.ischools.org/iconference)
 
 ## Session Chair 
 * JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
