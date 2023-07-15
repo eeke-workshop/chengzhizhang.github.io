@@ -29,6 +29,7 @@ order:  5
 
 ## Senior Program Committee Member  
 * [***JCDL***](http://www.jcdl.org/)(2020, 2021)
+* ***SMP***((2023)
   
 ## Program Committee Member 
 
