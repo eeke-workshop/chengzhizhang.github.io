@@ -13,7 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-* ***<p class="red-text">Call for Paper</p>***: Special isssue about "Innovation Measurement for Scientific Communication in the Era of Big Data" at [The Electronic Library](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data) 
+* ***Call for Paper***: Special isssue about "Innovation Measurement for Scientific Communication in the Era of Big Data" at [The Electronic Library](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data) 
 * In June 2023, Special Issue (Extraction and evaluation of knowledge entities in the age of artificial intelligence) on ***Aslib Journal of Information Management*** has been published and the link of the SI is: [https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3),  [[Editorial]](https://doi.org/10.1108/AJIM-05-2023-507)
 * In May 2023, a paper has been accepted by ***Library and Information Science Research***. [[doi]](https://doi.org/10.1016/j.lisr.2023.101255) 
 * Call for Paper: Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)) at the ACM/IEEE Joint Conference on Digital Libraries 2023 (JCDL2023), Santa Fe, New Mexico, USA
