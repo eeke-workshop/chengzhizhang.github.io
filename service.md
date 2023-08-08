@@ -10,12 +10,12 @@ order:  5
 
 ##  Co-Chair
 * ***[Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE)](https://eeke-workshop.github.io/)***
-  * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)).  [[Proceedings]]()
+  * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)).  [[Proceedings]](https://ceur-ws.org/Vol-3451/)
   * 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)).  [[Proceedings]](http://ceur-ws.org/Vol-3210/)
   * 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)).  [[Proceedings]](http://ceur-ws.org/Vol-3004/)
   * 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).  [[Proceedings]](http://ceur-ws.org/Vol-2658/)
 * ***[Workshop on AI + Informetrics (AII)](https://ai-informetrics.github.io/)***
-  * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)).  [[Proceedings]]()
+  * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)).  [[Proceedings]](https://ceur-ws.org/Vol-3451/)
   * 2nd Workshop on AI + Informetrics ([AII2022](https://ai-informetrics.github.io/2022/)) affiliated with the ([IP&MC 2022 Annual Conference](https://www.elsevier.com/events/conferences/information-processing-and-management-conference)) 
   * 1st Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/aii2021.html)).  [[Proceedings]](http://ceur-ws.org/Vol-2871/) 
 * ***Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data***
@@ -46,6 +46,7 @@ order:  5
 
 ## Guest Editors 
   * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://www.sciencedirect.com/journal/information-processing-and-management/special-issue/101SF59BTFR)]
+  * Journal of Informetrics: [[SI: AI + Informetrics](https://www.sciencedirect.com/journal/journal-of-informetrics/about/call-for-papers)]
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
   * Aslib Journal of Information Management: [[SI: Extraction and evaluation of knowledge entities in the age of artificial intelligence](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)]
   * The Electronic Library: [[SI: Managing Bigger Online Data](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)], [[SI: Innovation Measurement for Scientific Communication in the Era of Big Data](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)]
