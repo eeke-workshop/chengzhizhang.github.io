@@ -35,7 +35,7 @@ We aim to leverage human reading time to extract keyphrases from microblog posts
 >Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021, 72(5): 611-626. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 
 *  ### **Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction** 
-<img src=".research_methods/research_topic_method.png" alt="The Heatmap of the Context Representation" align="left" width="70%"/>
+<img src="./keyphrase_extraction/heatmap.jpg" alt="The Heatmap of the Context Representation" align="left" width="70%"/>
 We propose a neural keyphrase extraction framework for microblog posts. The framework consists of two modules: a conversation context encoder and a keyphrase tagger. Conversation context encoders are utilized to encode conversation
 context to help keyphrase taggers indicate salient phrases. The keyphrase tagger is employed to extract keyphrases from target posts. To leverage the structure of conversation, the hierarchical encoder is employed to learn the word-level and message-level information from a conversation context. To alleviate the OOV problem in usergenerated content on social media platforms, we utilized the character-level word embedding to capture both characterlevel and word-level features in both conversation context encoders and keyphrase taggers.
 
