@@ -12,6 +12,11 @@ To uncover the differences in English scientific writing between native English-
 
 >Chao Lu, Yi Bu, Jie Wang, Ying Ding, Vetle Torvik, Matthew Schnaars, Chengzhi Zhang\*. Examining scientific writing styles from the perspective of linguistic complexity. ***Journal of the Association for Information Science and Technology***, 2019, 70(5):462-475.  [[doi]](https://onlinelibrary.wiley.com/doi/10.1002/asi.24126)
 
+*  ### **Usage frequency and application variety of research methods in library and information science: Continuous investigation from 1991 to 2021** 
+<img src="./research_methods/research_topic_method.png" alt="Usage of Research Methods on Different Research Topics in LIS" align="left" width="70%"/>
+The present study analyzed over 26,000 research articles published between 1991 and 2021 in twenty-one major LIS (Library and Information Science) journals, using the machine learning (ML) approach to categorize the research methods used by LIS scholars. The findings of this study are significant. Firstly, there has been a shift in the research strategy from conceptual research (e.g., "Theoretical approach") to empirical research (e.g., "Interview") in LIS investigations over the past 31 years. Secondly, the research topics explored by LIS scholars during this period have moved from system-centered issues (e.g., "Information retrieval/models and algorithms") to user-centered topics (e.g., "Information services "). Thirdly, the study revealed dynamic and revealing relationships between the 18 research topics identified in the study and the 16 research methods commonly adopted in the LIS field. These dynamic relationships can be visualized by year and longitudinally via an interactive map created in this study.
+
+>Chengzhi Zhang\*, Liang Tian, Heting Chu. Usage Frequency and Application Variety of Research Methods in Library and Information Science: Continuous investigation from 1991 to 2021. Information Processing and Management, 2023, 60(6): 103507. [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
 
 ##  **Knowledge Entity Extraction and Evaluation**
 
@@ -30,7 +35,7 @@ We aim to leverage human reading time to extract keyphrases from microblog posts
 >Yingyi Zhang, Chengzhi Zhang\*. Enhancing Keyphrase Extraction from Microblogs using Human Reading Time. ***Journal of the Association for Information Science and Technology***, 2021, 72(5): 611-626. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 
 *  ### **Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction** 
-<img src="./keyphrase_extraction/heatmap.jpg" alt="The Heatmap of the Context Representation" align="left" width="70%"/>
+<img src=".research_methods/research_topic_method.png" alt="The Heatmap of the Context Representation" align="left" width="70%"/>
 We propose a neural keyphrase extraction framework for microblog posts. The framework consists of two modules: a conversation context encoder and a keyphrase tagger. Conversation context encoders are utilized to encode conversation
 context to help keyphrase taggers indicate salient phrases. The keyphrase tagger is employed to extract keyphrases from target posts. To leverage the structure of conversation, the hierarchical encoder is employed to learn the word-level and message-level information from a conversation context. To alleviate the OOV problem in usergenerated content on social media platforms, we utilized the character-level word embedding to capture both characterlevel and word-level features in both conversation context encoders and keyphrase taggers.
 
