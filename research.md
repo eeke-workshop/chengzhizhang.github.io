@@ -31,7 +31,7 @@ Taking NLP as an example, we manually annotate the more algorithm entities with 
 
 >Yuzhuo Wang, Chengzhi Zhang\*. Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing. ***Journal of Informetrics***, 2020, 14(4): 101091.[[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817)  [[Demo: Algorithm Influence in NLP (1979~2015)]](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
 
-##  **Social Media Mining** 
+##  **Keyphrase Extraction** 
 
 *  ### **Enhancing Keyphrase Extraction from Microblogs using Human Reading Time** 
 <img src="./keyphrase_extraction/Attention-Mechanism.jpg" alt="Attention-mechanism-based keyphrase extraction models" align="left" width="70%"/>
@@ -45,7 +45,9 @@ We propose a neural keyphrase extraction framework for microblog posts. The fram
 context to help keyphrase taggers indicate salient phrases. The keyphrase tagger is employed to extract keyphrases from target posts. To leverage the structure of conversation, the hierarchical encoder is employed to learn the word-level and message-level information from a conversation context. To alleviate the OOV problem in usergenerated content on social media platforms, we utilized the character-level word embedding to capture both characterlevel and word-level features in both conversation context encoders and keyphrase taggers.
 
 >Yingyi Zhang, Chengzhi Zhang\*, Jing Li. Joint Modeling of Characters, Words, and Conversation Contexts for Microblog Keyphrase Extraction. ***Journal of the Association for Information Science and Technology***, 2020, 71(5):553-567. [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.24279)
- 
+
+##  **Social Media Mining** 
+
 *  ### **Using social media to explore regional cuisine preferences in China**
 [<img src="./cuisine_preferences/cuisine_preferences.jpg" alt="Rgional Cuisine Preferences in China" align="left" width="70%"/>](https://chengzhizhang.github.io/research/cuisine_preferences/results.html) 
 Based on both UGC and online recipes, we first investigated the cuisine preference distribution in different regions. Then, dish preference similarity between regions was calculated and few geographic factors were identified, which might lead to such regional similarity appeared in our study. By applying hierarchical clustering, we clustered regions based on dish preference and ingredient usage separately.Different from traditional definitions of regions to which cuisine belong, we found new association between region and cuisine based on dish preference from social media and ingredient usage of dishes. Using social media may overcome problems with using traditional questionnaires, such as high costs and long cycle for questionnaire design and answering.
