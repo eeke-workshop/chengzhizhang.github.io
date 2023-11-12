@@ -8,7 +8,7 @@ order:  3
  (*=corresponding author)
 ## 2024
 * [J70] Heng Zhang, Chengzhi Zhang\*, Yuzhuo Wang. Revealing the Technology Development of Natural Language Processing: A Scientific Entity-Centric Perspective. ***Information Processing and Management***, 2024, 61(xx): 103574. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574)  [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development)
-* [J69] Yang Liu, Jiale Shi, Fei Huang, Jingrui Hou, Chengzhi Zhang. Unveiling customer preferences in automotive reviews through aspect-based opinion generation. ***Journal of Retailing and Consumer Services***, 2023. (in press)
+* [J69] Yang Liu, Jiale Shi, Fei Huang, Jingrui Hou, Chengzhi Zhang. Unveiling customer preferences in automotive reviews through aspect-based opinion generation. ***Journal of Retailing and Consumer Services***, 2024(77): 103605. [[doi]](https://doi.org/10.1016/j.jretconser.2023.103605)
 
 ## 2023
 * [P5] Chengzhi Zhang, Yi Zhang, Philipp Mayr, Wei Lu, Arho Suominen, Haihua Chen and Ying Ding. ***Proceedings of Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2023) and the 3rd AI + Informetrics (AII2023)***，co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2023 (JCDL 2023), USA and Online, 26 June, 2023. [[Proceedings]](https://ceur-ws.org/Vol-3451)  [[DBLP]](https://dblp.org/db/conf/eeke/eeke2023.html)
