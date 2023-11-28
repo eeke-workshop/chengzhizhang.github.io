@@ -57,6 +57,7 @@ order:  5
 
 ## Editorial Board Member
   * Patterns
+  * Scientometrics
   * Online Information Review
   * Aslib Journal of Information Management
   * The Electronic Library
