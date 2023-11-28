@@ -10,11 +10,13 @@ order:  5
 
 ##  Co-Chair
 * ***[Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE)](https://eeke-workshop.github.io/)***
-  * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)).  [[Proceedings]](https://ceur-ws.org/Vol-3451/)
+  * Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024) ([EEKE-AII2024](https://eeke-workshop.github.io/2024/)) 
+  * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/))   [[Proceedings]](https://ceur-ws.org/Vol-3451/)
   * 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)).  [[Proceedings]](http://ceur-ws.org/Vol-3210/)
   * 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)).  [[Proceedings]](http://ceur-ws.org/Vol-3004/)
   * 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).  [[Proceedings]](http://ceur-ws.org/Vol-2658/)
 * ***[Workshop on AI + Informetrics (AII)](https://ai-informetrics.github.io/)***
+  * Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024) ([EEKE-AII2024](https://eeke-workshop.github.io/2024/)) 
   * Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 3rd AI + Informetrics ([EEKE-AII2023](https://eeke-workshop.github.io/2023/)).  [[Proceedings]](https://ceur-ws.org/Vol-3451/)
   * 2nd Workshop on AI + Informetrics ([AII2022](https://ai-informetrics.github.io/2022/)) affiliated with the ([IP&MC 2022 Annual Conference](https://www.elsevier.com/events/conferences/information-processing-and-management-conference)) 
   * 1st Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/aii2021.html)).  [[Proceedings]](http://ceur-ws.org/Vol-2871/) 
