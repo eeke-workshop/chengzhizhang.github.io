@@ -47,7 +47,7 @@ order:  5
   * [Frontiers in Research Metrics and Analytics (Text-mining and Literature-based Discover)](https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/text-mining-and-literature-based-discovery)
 
 ## Guest Editors 
-  * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://www.sciencedirect.com/journal/information-processing-and-management/special-issue/101SF59BTFR)]
+  * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://doi.org/10.1016/j.ipm.2023.103495)]
   * Journal of Informetrics: [[SI: AI + Informetrics](https://www.sciencedirect.com/journal/journal-of-informetrics/about/call-for-papers)]
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
   * Aslib Journal of Information Management: [[SI: Extraction and evaluation of knowledge entities in the age of artificial intelligence](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)]
