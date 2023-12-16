@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2024
-* [J71] Xinyi Yan, Yingyi Zhang, Chengzhi Zhang\*. Utilizing Cognitive Signals Generated during Human Reading to Enhance Keyphrase Extraction from Microblogs. ***Information Processing and Management***, 2024,61: 103614. [[doi]](https://doi.org/10.1016/j.ipm.2023.103614)  [[Dataset & Source Code]](https://github.com/yan-xinyi/AKE)
+* [J71] Xinyi Yan, Yingyi Zhang, Chengzhi Zhang\*. Utilizing Cognitive Signals Generated during Human Reading to Enhance Keyphrase Extraction from Microblogs. ***Information Processing and Management***, 2024, 61: 103614. [[doi]](https://doi.org/10.1016/j.ipm.2023.103614)  [[Dataset & Source Code]](https://github.com/yan-xinyi/AKE)
 * [J70] Heng Zhang, Chengzhi Zhang\*, Yuzhuo Wang. Revealing the Technology Development of Natural Language Processing: A Scientific Entity-Centric Perspective. ***Information Processing and Management***, 2024, 61(1): 103574. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574)  [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development)
 * [J69] Yi Zhang, Chengzhi Zhang, Philipp Mayr, Arho Suominen, Ying Ding. An editorial of “AI + informetrics”: Robust models for large-scale analytics. ***Information Processing & Management***, 2024, 61(1): 103495. [[doi]](https://doi.org/10.1016/j.ipm.2023.103495)
 * [J68] Yang Liu, Jiale Shi, Fei Huang, Jingrui Hou, Chengzhi Zhang. Unveiling customer preferences in automotive reviews through aspect-based opinion generation. ***Journal of Retailing and Consumer Services***, 2024, 77: 103605. [[doi]](https://doi.org/10.1016/j.jretconser.2023.103605)
