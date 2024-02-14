@@ -23,8 +23,9 @@ order:  5
 * ***Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data***
   * 1st Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([IMSC2023](https://jcdl2023workshop-imsc.github.io/IMSC2023-workshop/))
     
-## Workshops & Panels Chair
+## Poster / Workshops & Panels Chair
 * [***iConference***](https://www.ischools.org/iconference)(2024)
+* [***Joint Conference on Digital Libraries (JCDL)***](https://2024.jcdl.org/)(2024)
 
 ## Session Chair 
 * JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
