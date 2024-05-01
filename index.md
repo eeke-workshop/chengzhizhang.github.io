@@ -13,6 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
+* ***Call For Posters and Demos***:  2024 ACM/IEEE Joint Conference on Digital Libraries ([JCDL2024 Posters and Demos](https://2024.jcdl.org/call-for-posters-and-demos/)), Face to face session in Hong Kong
 * Call for Paper: Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 4th AI + Informetrics ([EEKE-AII2024](https://eeke-workshop.github.io/2024/)) at the iConference2024, Changchun, China and Online
 * Call for Paper: Special isssue about "AI + Informetrics" at [Journal of Informetrics.](https://www.sciencedirect.com/journal/journal-of-informetrics/about/call-for-papers#artificial-intelligence-and-informetrics) 
 * Call for Paper: Special isssue about "Innovation Measurement for Scientific Communication in the Era of Big Data" at [The Electronic Library](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)
