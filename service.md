@@ -45,6 +45,7 @@ order:  5
 ## Editors 
 * ***Associate Editor***
   * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science)
+  * [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management)
   * [Frontiers in Research Metrics and Analytics (Text-mining and Literature-based Discover)](https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/text-mining-and-literature-based-discovery)
 
 ## Guest Editors 
