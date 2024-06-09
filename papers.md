@@ -7,6 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2024
+* [J78] Ziling Chen, Chengzhi Zhang\*, Heng Zhang, Yi Zhao, Chen Yang, and Yang Yang. Exploring the Relationship Between Team Institutional Composition and Novelty in Academic Papers Based on Fine-Grained Knowledge Entities. ***The Electronic Library***, 2024.（in press)  [[doi]](https://doi.org/10.1108/EL-03-2024-0070)  [[Dataset & Source Code]](https://github.com/CZL-ziling/Noveltyscore_metric) 
 * [J77] Yuzhuo Wang, Yi Xiang, Chengzhi Zhang\*. Exploring Motivations for Algorithm Mention in the Domain of Natural Language Processing: A Deep Learning Approach.  ***Journal of Informetrics***, 2024, 18(4): 101550 [[doi]](https://doi.org/10.1016/j.joi.2024.101550).
 * [J76] Yingyi Zhang, Chengzhi Zhang\*. Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization. ***Scientometrics***, 2024. [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper)
 * [J75] Wenqing Wu, Haixu Xi, Chengzhi Zhang\*.  Are the confidence scores of reviewers consistent with the review content? Evidence from top conference proceedings in AI. ***Scientometrics***, 2024. [[doi]]()  [[Dataset & Source Code]](https://github.com/njust-winchy/confidence_score)  
