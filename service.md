@@ -50,7 +50,7 @@ order:  5
 
 ## Guest Editors 
   * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://doi.org/10.1016/j.ipm.2023.103495)]
-  * Journal of Informetrics: [[SI: AI + Informetrics](https://www.sciencedirect.com/journal/journal-of-informetrics/about/call-for-papers)]
+  * Journal of Informetrics: [[SI: AI + Informetrics](https://www.sciencedirect.com/special-issue/10VSKW931LL)]
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
   * Aslib Journal of Information Management: [[SI: Extraction and evaluation of knowledge entities in the age of artificial intelligence](https://www.emerald.com/insight/publication/issn/2050-3806/vol/75/iss/3)]
   * The Electronic Library: [[SI: Managing Bigger Online Data](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)], [[SI: Innovation Measurement for Scientific Communication in the Era of Big Data](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)]
