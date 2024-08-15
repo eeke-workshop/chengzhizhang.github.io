@@ -14,7 +14,7 @@ phd-students-first:
   -
     name: Haixu Xi
     url: https://www.researchgate.net/profile/Haixu_Xi2
-    tagline: Knowledge entity extraction and evaluation.
+    tagline: Knowledge Entity Extraction and Evaluation.
   -
     name: Chen Yang
     url: https://yangchen199671.github.io/ 
@@ -26,15 +26,19 @@ phd-students-first:
   -  
     name: Wenqing Wu
     url: https://njust-winchy.github.io/  
-    tagline: TBD.
+    tagline: Peer Reveiw Mining.
   -  
     name: Xinyi Yan
-    url:   
+    url: https://yan-xinyi.github.io/  
     tagline: Keyphrase Extraction and Generation.
   -  
     name: Yi Xiang
     url: https://xiangyi-njust.github.io/   
-    tagline: TBD.    
+    tagline: Novelty Measuring of Scientific Article.   
+  -  
+    name: Hongye Zhao
+    url:    
+    tagline: Knowledge Entity Extraction and Evaluation.   
 project-students:
 former-phd:
   -
