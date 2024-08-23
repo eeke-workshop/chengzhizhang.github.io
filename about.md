@@ -15,9 +15,10 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
+* ***Call for Paper***: Special isssue about "LLMs for Scientific Literature Analysis and Mining" at [***Data and Information Management***](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining) 
 * Call For Posters and Demos:  2024 ACM/IEEE Joint Conference on Digital Libraries ([JCDL2024 Posters and Demos](https://2024.jcdl.org/call-for-posters-and-demos/)), Face to face session in Hong Kong
 * Call for Paper: Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents and the 4th AI + Informetrics ([EEKE-AII2024](https://eeke-workshop.github.io/2024/)) at the iConference2024, Changchun, China and Online
-* Call for Paper: Special isssue about "AI + Informetrics" at [***Journal of Informetrics***.](https://www.sciencedirect.com/special-issue/10VSKW931LL) 
+* Call for Paper: Special isssue about "AI + Informetrics" at [***Journal of Informetrics***](https://www.sciencedirect.com/special-issue/10VSKW931LL) 
 * Call for Paper: Special isssue about "Innovation Measurement for Scientific Communication in the Era of Big Data" at [The Electronic Library](https://www.emeraldgrouppublishing.com/calls-for-papers/innovation-measurement-scientific-communication-imsc-era-big-data)
 * In December 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103614) [[Dataset & Source Code]](https://github.com/yan-xinyi/AKE)
 * In November 2023, a paper has been accepted by ***Information Processing and Management***. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574) [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development) 
